@@ -1,0 +1,233 @@
+{
+  "id": 2925260,
+  "name": "Marketing spend",
+  "unit": "M USD",
+  "shortUnit": "M USD",
+  "description": "Source: ACME Corp. Marketing spend",
+  "timespan": "1990-2023",
+  "datasetId": 27,
+  "source": {
+    "id": 1,
+    "name": "ACME Corp",
+    "dataPublishedBy": "ACME Corp",
+    "link": "",
+    "retrievedDate": "",
+    "additionalInfo": ""
+  },
+  "dimensions": {
+    "years": {
+      "values": [
+        1990,
+        1993,
+        1996,
+        1999,
+        2002,
+        2005,
+        2008,
+        2011,
+        2014,
+        2017,
+        2020,
+        2023
+      ]
+    },
+    "entities": {
+      "values": [
+        {
+          "id": 21,
+          "name": "ARG",
+          "code": "ARG"
+        },
+        {
+          "id": 23,
+          "name": "AUS",
+          "code": "AUS"
+        },
+        {
+          "id": 24,
+          "name": "AUT",
+          "code": "AUT"
+        },
+        {
+          "id": 4,
+          "name": "BEL",
+          "code": "BEL"
+        },
+        {
+          "id": 37,
+          "name": "BRA",
+          "code": "BRA"
+        },
+        {
+          "id": 44,
+          "name": "CAN",
+          "code": "CAN"
+        },
+        {
+          "id": 7,
+          "name": "CHE",
+          "code": "CHE"
+        },
+        {
+          "id": 172,
+          "name": "CHL",
+          "code": "CHL"
+        },
+        {
+          "id": 171,
+          "name": "CHN",
+          "code": "CHN"
+        },
+        {
+          "id": 170,
+          "name": "COL",
+          "code": "COL"
+        },
+        {
+          "id": 6,
+          "name": "DEU",
+          "code": "DEU"
+        },
+        {
+          "id": 161,
+          "name": "DNK",
+          "code": "DNK"
+        },
+        {
+          "id": 65,
+          "name": "EGY",
+          "code": "EGY"
+        },
+        {
+          "id": 9,
+          "name": "ESP",
+          "code": "ESP"
+        },
+        {
+          "id": 155,
+          "name": "FIN",
+          "code": "FIN"
+        },
+        {
+          "id": 3,
+          "name": "FRA",
+          "code": "FRA"
+        },
+        {
+          "id": 1,
+          "name": "GBR",
+          "code": "GBR"
+        },
+        {
+          "id": 136,
+          "name": "IDN",
+          "code": "IDN"
+        },
+        {
+          "id": 137,
+          "name": "IND",
+          "code": "IND"
+        },
+        {
+          "id": 133,
+          "name": "ISR",
+          "code": "ISR"
+        },
+        {
+          "id": 14,
+          "name": "JPN",
+          "code": "JPN"
+        },
+        {
+          "id": 127,
+          "name": "KOR",
+          "code": "KOR"
+        },
+        {
+          "id": 113,
+          "name": "MEX",
+          "code": "MEX"
+        },
+        {
+          "id": 116,
+          "name": "MYS",
+          "code": "MYS"
+        },
+        {
+          "id": 103,
+          "name": "NGA",
+          "code": "NGA"
+        },
+        {
+          "id": 5,
+          "name": "NLD",
+          "code": "NLD"
+        },
+        {
+          "id": 102,
+          "name": "NOR",
+          "code": "NOR"
+        },
+        {
+          "id": 11,
+          "name": "POL",
+          "code": "POL"
+        },
+        {
+          "id": 12,
+          "name": "RUS",
+          "code": "RUS"
+        },
+        {
+          "id": 90,
+          "name": "SAU",
+          "code": "SAU"
+        },
+        {
+          "id": 86,
+          "name": "SGP",
+          "code": "SGP"
+        },
+        {
+          "id": 10,
+          "name": "SWE",
+          "code": "SWE"
+        },
+        {
+          "id": 75,
+          "name": "THA",
+          "code": "THA"
+        },
+        {
+          "id": 70,
+          "name": "TUR",
+          "code": "TUR"
+        },
+        {
+          "id": 13,
+          "name": "USA",
+          "code": "USA"
+        },
+        {
+          "id": 84,
+          "name": "VNM",
+          "code": "VNM"
+        },
+        {
+          "id": 81,
+          "name": "ZAF",
+          "code": "ZAF"
+        }
+      ]
+    }
+  },
+  "display": {
+    "name": "Marketing spend",
+    "unit": "M USD",
+    "shortUnit": "M USD",
+    "numDecimalPlaces": 1,
+    "tolerance": 5,
+    "includeInTable": true,
+    "colorScaleScheme": "Blues"
+  }
+}
